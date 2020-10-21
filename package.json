@@ -1,0 +1,18 @@
+{
+  "name": "octomirror-module1",
+  "version": "1.0.7",
+  "description": "module for a Magic Mirror device that will interact with an Octoprint Instance",
+  "main": "octomirror-module1.js",
+  "author": "BangerTech",
+  "contributor": "BangerTech",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "sockjs-client": "^1.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BangerTech/octomirror-module1.git"
+  }
+}
